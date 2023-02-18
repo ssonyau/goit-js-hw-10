@@ -1,4 +1,3 @@
-
 import { fetchCountries } from './fetchCountries.js';
 import Notiflix from 'notiflix';
 import debounce from 'lodash.debounce';
